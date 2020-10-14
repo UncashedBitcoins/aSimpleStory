@@ -1,1 +1,3 @@
-Hi, I am alice (not really but shhhh!).
+Hi, I am alice ~~(not really but shhhh!)~~.
+
+I totally am (~~ ~~ is strikethrough in markdown)
